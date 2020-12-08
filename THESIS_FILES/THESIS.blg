@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: THESIS.aux
+The style file: vancouver.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated field_info (elt_size=4) to 15234 items from 5000.
+Database file #1: BIB_ALL_ABR_NONUM_2019-11-05.bib
+Warning--empty author and editor in national2011myocardial
+You've used 301 entries,
+            3170 wiz_defined-function locations,
+            2192 strings with 63950 characters,
+and the built_in function-call counts, 535708 in all, are:
+= -- 66858
+> -- 4336
+< -- 8
++ -- 2207
+- -- 1084
+* -- 44425
+:= -- 58091
+add.period$ -- 1186
+call.type$ -- 301
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 302
+duplicate$ -- 42474
+empty$ -- 51196
+format.name$ -- 1337
+if$ -- 125277
+int.to.chr$ -- 0
+int.to.str$ -- 301
+missing$ -- 3412
+newline$ -- 1507
+num.names$ -- 301
+pop$ -- 5880
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 5556
+stack$ -- 0
+substring$ -- 106317
+swap$ -- 6662
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 3079
+width$ -- 304
+write$ -- 3295
+(There was 1 warning)

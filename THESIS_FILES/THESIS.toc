@@ -1,0 +1,108 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\nonumberline Acknowledgments}{vi}{chapter*.15}
+\contentsline {chapter}{\nonumberline Funding}{viii}{chapter*.16}
+\contentsline {chapter}{\nonumberline Summary -- English}{ix}{chapter*.17}
+\contentsline {chapter}{\nonumberline Summary -- Danish}{xi}{chapter*.18}
+\contentsline {chapter}{\nonumberline Papers of the Thesis}{xiii}{chapter*.19}
+\contentsline {chapter}{\nonumberline Co-Authored Papers}{xiv}{chapter*.20}
+\contentsline {chapter}{\nonumberline Abbreviations}{xv}{chapter*.21}
+\contentsline {chapter}{\nonumberline Preface: Sex and/or Gender?}{xvi}{chapter*.22}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Sex Differences in Mortality and Health}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Gaps in Life Expectancy Between Men and Women}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}The Contribution of Behavior and Biology}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}The Paradox of Health and Survival}{5}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Gender and Hospitalization}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Hospitalization as a Health Indicator}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Gender Patterns in Admission and Mortality}{8}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Research Gaps}{10}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Denmark -- The Context of the Thesis}{12}{section.1.3}
+\contentsline {section}{\numberline {1.4}Aims and Objectives}{13}{section.1.4}
+\contentsline {section}{\numberline {1.5}Methods and Materials}{14}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Data}{14}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Methods}{17}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Results and Discussion}{20}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Main Findings and Contribution to Existing Knowledge}{20}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Strengths and Limitations}{24}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Conclusion}{29}{subsection.1.6.3}
+\contentsline {chapter}{\numberline {2}Sex Differences in Mortality Following Hospitalization}{31}{chapter.2}
+\contentsline {section}{\numberline {2.1}Abstract}{32}{section.2.1}
+\contentsline {section}{\numberline {2.2}Strengths and Limitations of this Study}{33}{section.2.2}
+\contentsline {section}{\numberline {2.3}Background}{34}{section.2.3}
+\contentsline {section}{\numberline {2.4}Methods and Materials}{35}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Data}{35}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Study Population}{36}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Patient and Public Involvement}{37}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Statistical Analysis}{37}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Results}{38}{section.2.5}
+\contentsline {section}{\numberline {2.6}Discussion}{43}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Principle Findings}{43}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Strengths and Weaknesses of the Study}{44}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Interpretation and Implications in Light of Previous Findings}{46}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Conclusion}{48}{subsection.2.6.4}
+\contentsline {section}{\numberline {2.7}Supplementary Material}{49}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Supplementary Figures}{49}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Supplementary Tables}{50}{subsection.2.7.2}
+\contentsline {chapter}{\numberline {3}Gender-Specific Changes in Treatment-Seeking Around Admission}{52}{chapter.3}
+\contentsline {section}{\numberline {3.1}Abstract}{53}{section.3.1}
+\contentsline {section}{\numberline {3.2}Key Messages}{54}{section.3.2}
+\contentsline {section}{\numberline {3.3}Background}{55}{section.3.3}
+\contentsline {section}{\numberline {3.4}Methods}{56}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Data}{56}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Study Population}{57}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Study Design and Statistical Modeling}{57}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Results}{62}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Descriptive Statistics}{62}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Regression Model}{62}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Sensitivity Analysis}{65}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Discussion}{66}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Principal Findings}{66}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Strengths and Limitations}{66}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Interpretations and Implications}{67}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Conclusion}{68}{subsection.3.6.4}
+\contentsline {section}{\numberline {3.7}Supplementary Material}{70}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Supplementary Figures}{70}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Supplementary Tables}{72}{subsection.3.7.2}
+\contentsline {chapter}{\numberline {4}Inequalities in Mean Age at First Hospital Admission}{76}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{77}{section.4.1}
+\contentsline {section}{\numberline {4.2}Key Messages}{78}{section.4.2}
+\contentsline {section}{\numberline {4.3}Background}{79}{section.4.3}
+\contentsline {section}{\numberline {4.4}Methods and Materials}{80}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Data Sources}{80}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Study Population}{81}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Statistical Analysis}{82}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Results}{83}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Trends in Mean Age}{83}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Changes to the Age Distribution}{84}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Trends in the Coefficient of Variation}{85}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Sensitivity Analyses}{86}{subsection.4.5.4}
+\contentsline {section}{\numberline {4.6}Discussion}{86}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Summary of Findings}{86}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Interpretations and Implications}{86}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Methodological Considerations}{87}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Concluding Theoretical Reflections}{89}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Supplementary Material}{90}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}Appendix 1}{90}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4.7.2}Appendix 2}{91}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {4.7.3}Appendix 3}{93}{subsection.4.7.3}
+\contentsline {subsection}{\numberline {4.7.4}Appendix 4}{95}{subsection.4.7.4}
+\contentsline {chapter}{\numberline {5}Changes in the Demographic Profile of Hospital Patients}{96}{chapter.5}
+\contentsline {section}{\numberline {5.1}Abstract}{97}{section.5.1}
+\contentsline {section}{\numberline {5.2}Introduction}{98}{section.5.2}
+\contentsline {section}{\numberline {5.3}Methods and Materials}{99}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Linking Register Data}{99}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Estimating Hospital Care Use Patterns from Linked Registers}{99}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Statistics Denmark's Population Projection}{100}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Forecasting the Hospital Care Use}{101}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}Results}{101}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Hospital Care Use Patterns in 2014}{101}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Changes in the Population Structure}{102}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Changes in Hospital Days}{103}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {5.4.4}Sensitivity Analyses}{105}{subsection.5.4.4}
+\contentsline {section}{\numberline {5.5}Discussion}{105}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Methodological Considerations}{105}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Health and Hospital Care Use in Aging Populations}{106}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Implications of a Changing Patient Profile}{108}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Conclusion}{109}{subsection.5.5.4}
+\contentsline {section}{\numberline {5.6}Supplementary Material}{110}{section.5.6}
+\contentsline {chapter}{References}{117}{chapter*.73}

@@ -1,0 +1,179 @@
+%%% SET CLASS LOAD PACKAGES + MAKE BIBLIOGRAPHY APPEAR IN TABLE OF CONTENTS %%%
+\documentclass[oneside,bibliography=totocnumbered]{scrbook}
+\pagestyle{plain}
+% LANGUAGE %
+\usepackage[english]{babel}
+% FIGURES %
+\usepackage{graphicx}
+\usepackage[abs]{overpic}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\makeatletter
+% REFERENCES % 
+\usepackage[super,numbers,sort&compress]{natbib}
+\usepackage{hyperref}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
+\addto{\captionsenglish}{\renewcommand{\bibname}{References}}
+% DOUBLE SPACED %
+\usepackage{setspace}
+\usepackage{booktabs}
+% TABLES %
+\usepackage{hhline}
+% DOI %
+\usepackage{doi}
+\usepackage{color}
+% CHANGEMARGINS %
+\usepackage{geometry}
+\geometry{left=35mm,right=35mm,top=35mm,bottom=35mm}
+% INSERT PDF's %
+\usepackage{pdfpages}
+% LANDSCAPE %
+\usepackage{lscape}
+\setlength{\parindent}{1.0cm}
+\setlength{\parskip}{0.0cm}
+% CHANGE FOOTNOTES: NUMBER TO LETTER 
+\renewcommand{\thefootnote}{\textit{\alph{footnote}}}
+
+%----------------------------------------------------------------%%----------------------------------------------------------------%
+
+\title{PhD Thesis \\ \vspace{0.25in} Gender, Hospitalization, and Mortality}
+\vspace{0.25in} 
+\author{submitted by Andreas H\"ohn}
+\date{December 2019}
+\publishers{	Faculty of Health Science									 \\
+				Institute of Public Health									 \\ 
+				Department of Epidemiology, Biostatistics and Biodemography	 \\
+				University of Southern Denmark								 \\
+				Odense, Denmark}
+
+\begin{document}
+
+\maketitle
+
+\frontmatter
+
+
+%----------------------------------------------------------------%%----------------------------------------------------------------%
+
+
+\chapter*{Supervision}
+
+\vspace{0.25in}
+
+\section*{Principle Supervision}
+\subsection*{}
+\textbf{\textsc{Kaare Christensen}}								\\	
+MD, DMSc, PhD, Professor										\\
+Institute of Public Health										\\ 
+Department of Epidemiology, Biostatistics and Biodemography	 	\\
+University of Southern Denmark									\\
+Odense, Denmark					
+
+\vspace{0.25in}
+
+\section*{Co-Supervision}
+\subsection*{}
+\textbf{\textsc{Anna Oksuzyan}}									\\
+MD, PhD															\\ 			
+Max Planck Research Group Gender Gaps in Health and Survival	\\
+Max Planck Institute for Demographic Research					\\
+Rostock, Germany												
+
+\subsection*{}										
+\textbf{\textsc{Roland Rau}}									\\
+PhD, Professor													\\
+Department of Demography										\\
+University of Rostock											\\
+Rostock, Germany	
+
+\subsection*{}
+\textbf{\textsc{Rune Lindahl-Jacobsen}}							\\
+PhD, Professor													\\
+Department of Epidemiology, Biostatistics and Biodemography	 	\\
+University of Southern Denmark									\\
+Odense, Denmark	
+
+
+%----------------------------------------------------------------%%----------------------------------------------------------------%
+
+
+\chapter*{Assessment Committee}
+
+\vspace{0.25in}
+
+\section*{Chairman}	
+\subsection*{}									
+\textbf{\textsc{Lau Caspar Thygesen}}							\\
+PhD, Professor													\\
+Department of Population Health and Morbidity						\\
+National Institute of Public Health								\\
+University of Southern Denmark									\\
+Odense, Denmark	
+
+\vspace{0.35in}
+
+\section*{Opponents}										
+\subsection*{}
+\textbf{\textsc{Hill Kulu}}										\\
+PhD, Professor													\\
+School of Geography and Sustainable Development 				\\
+University of St. Andrews										\\
+St. Andrews, U.K.												
+
+\subsection*{}
+\textbf{\textsc{Rikke Lund}}									\\
+MD, PhD, DMSc, Professor										\\
+Section of Social Medicine	 									\\
+Department of Public Health										\\
+University of Copenhagen										\\
+Copenhagen, Denmark	
+
+
+%----------------------------------------------------------------%%----------------------------------------------------------------%
+
+
+\tableofcontents
+\doublespacing
+
+\input{Intro/acknowledgments.tex}
+
+\input{Intro/summary-english.tex}
+
+\input{Intro/summary-danish.tex}
+
+\input{Intro/thesis-papers.tex}
+
+\input{Intro/co-author.tex}
+
+\input{Intro/abbreviations.tex}
+
+\input{Intro/preface.tex}
+
+\mainmatter
+
+\input{Summary/summary_chapter.tex}
+
+\input{Paper_1/paper1.tex}
+
+\input{Paper_2/paper2.tex}
+
+\input{Paper_3/paper3.tex}
+
+\input{Paper_4/paper4.tex}
+
+%-------------------------------------%
+
+
+% REFERENCES %
+\footnotesize
+\bibliographystyle{vancouver}	
+\bibliography{BIB_ALL_ABR_NONUM_2019-11-05}
+	
+%-------------------------------------%
+
+\backmatter
+
+%-------------------------------------%
+
+\end{document}
