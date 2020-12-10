@@ -22,7 +22,7 @@ The dissertation contains final and/or work in progress which has been published
 
 Andreas Höhn, Lisbeth Aagaard Larsen, Daniel Christoph Schneider, Rune Lindahl-Jacobsen, Roland Rau, Kaare Christensen, and Anna Oksuzyan: Sex differences in the 1-year risk of dying following all-cause and cause-specific hospital admission after age 50 in comparison with a general and non-hospitalized population: A register-based cohort study of the Danish population. **BMJ open: 2018;8(7),e021813**. doi:10.1136/bmjopen-2018-021813.
 
-*License:Creative Commons Attribution 4.0 International License (CC BY-NC 4.0)*
+*License: Creative Commons Attribution 4.0 International License (CC BY-NC 4.0)*
 
 Andreas Höhn, Jutta Gampe, Rune Lindahl-Jacobsen, Kaare Christensen, and Anna Oksuzyan: Do men avoid seeking medical advice? A register-based analysis of gender-specific changes in primary healthcare use after first hospitalization at ages 60+ in Denmark. **J Epidemiol Community Health: 2020;74:573-579**. doi:10.1136/jech-2019-213435
 
