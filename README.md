@@ -10,9 +10,9 @@ The structure of folders and file names in "/THESIS_FILES" should allow you to b
 
 The outcome should be identical to the final, and submitted version of my thesis named "THESIS_AHoehn_2019-12-10.pdf"
 
-Tables were created using the Word2Latex macro.
+Latex code for tables were created using the Word2Latex macro.
 
-Final build on 08.12.2020 using TexLive (Version 2017.20180305-1) and Texmaker (Build 5.0.2-1build2) under Linux Mint 19.3 cinnamon 4.4.8
+Final build on 08.12.2020 using TexLive (Version 2017.20180305-1) and Texmaker (Build 5.0.2-1build2) under Linux Mint 19.3 cinnamon 4.4.8. Previous builds under Windows 7 and Widows 10
 
 # Open Access Articles and License Agreements # 
 
