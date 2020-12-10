@@ -28,7 +28,7 @@ Andreas Höhn, Jutta Gampe, Rune Lindahl-Jacobsen, Kaare Christensen, and Anna O
 
 *License: Creative Commons Attribution 4.0 International License (CC BY-NC 4.0)*
 
-Anna Oksuzyan, Andreas Höhn, Jacob Krabbe Pedersen, Rune Lindahl-Jacobsen, Roland Rau, and Kaare Christensen: Preparing for the future: The changing demographic composition of hospital patients in Denmark between 2013 and 2050. PLoS ONE: 2020;15(9):e0238912. doi:10.1371/journal.pone.0238912
+Anna Oksuzyan, Andreas Höhn, Jacob Krabbe Pedersen, Rune Lindahl-Jacobsen, Roland Rau, and Kaare Christensen: Preparing for the future: The changing demographic composition of hospital patients in Denmark between 2013 and 2050. **PLoS ONE: 2020;15(9):e0238912**. doi:10.1371/journal.pone.0238912
 
 *License: Creative Commons Attribution 4.0 International License (CC BY 4.0)*
 
